@@ -1,0 +1,190 @@
+﻿Diagnose log at 2025-11-22T10:10:11Z
+
+AppPath: C:\Users\ManojOdela\AppData\Local\Programs\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Users\ManojOdela\AppData\Local\Programs\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26100)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\ManojOdela
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-8TDNL2G
+MSYSTEM=MINGW64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\ManojOdela\OneDrive - Winfo Solutions
+SESSIONNAME=Console
+TMP=C:\Users\MANOJO~1\AppData\Local\Temp
+PROCESSOR_REVISION=8e0c
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+nodejs=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Node.js
+GIT_ASKPASS=c:\Users\ManojOdela\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+GIT_EXEC_PATH=C:/Users/ManojOdela/AppData/Local/Programs/Git/mingw64/libexec/git-core
+TEMP=C:\Users\MANOJO~1\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\ManojOdela\AppData\Local
+PUBLIC=C:\Users\Public
+TERM=xterm-256color
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+COLORTERM=truecolor
+windir=C:\WINDOWS
+USERDOMAIN=AzureAD
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Users/ManojOdela/AppData/Local/Programs/Git/mingw64/libexec/git-core;C:\Users\ManojOdela\AppData\Local\Programs\Git\mingw64\bin;C:\Users\ManojOdela\AppData\Local\Programs\Git\usr\bin;C:\Users\ManojOdela\bin;c:\Users\ManojOdela\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\ManojOdela\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\ManojOdela\AppData\Local\Microsoft\WindowsApps;C:\Users\ManojOdela\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ManojOdela\AppData\Roaming\npm;C:\Users\ManojOdela\AppData\Local\Programs\Git\cmd;
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=4
+TMPDIR=C:\Users\MANOJO~1\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+TERM_PROGRAM_VERSION=1.106.2
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\ManojOdela\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+PSModulePath=C:\Users\ManojOdela\OneDrive - Winfo Solutions\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-395704a0dd-sock
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+__PSLockDownPolicy=0
+npm=C:\Program Files\nodejs\npm
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_9112_AUDUJGNMSEMVOFFU
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+ProgramFiles=C:\Program Files (x86)
+GIT_TRACE2_PARENT_SID=c319363c-5522-4a8a-8590-11a88ac421ac
+VSCODE_GIT_ASKPASS_NODE=C:\Users\ManojOdela\AppData\Local\Programs\Microsoft VS Code\Code.exe
+SystemRoot=C:\WINDOWS
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+HOME=C:\Users\ManojOdela
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\DESKTOP-8TDNL2G
+USERPROFILE=C:\Users\ManojOdela
+USERDOMAIN_ROAMINGPROFILE=AzureAD
+node=C:\Program Files\nodejs\node.exe
+APPDATA=C:\Users\ManojOdela\AppData\Roaming
+HOMEDRIVE=C:
+EFC_9580_1592913036=1
+VSCODE_INJECTION=1
+USERNAME=ManojOdela
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+OneDriveCommercial=C:\Users\ManojOdela\OneDrive - Winfo Solutions
+LANG=en_US.UTF-8
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\ManojOdela\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\ManojOdela\AppData\Local\Temp\469446ddb16043f2231faa61'... OK
+Reading from temporary file 'C:\Users\ManojOdela\AppData\Local\Temp\469446ddb16043f2231faa61'... OK
+Deleting temporary file 'C:\Users\ManojOdela\AppData\Local\Temp\469446ddb16043f2231faa61'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\ManojOdela
+UserDataDirectoryPath: C:\Users\ManojOdela\.gcm
+GetCurrentDirectory(): C:\Users\ManojOdela\Next-Demo\my-next-app
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:63473/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.49.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/ManojOdela/Next-Demo/my-next-app/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	core.fscache=true
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	core.symlinks=false
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	pull.rebase=false
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	credential.helper=manager
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Users/ManojOdela/AppData/Local/Programs/Git/etc/gitconfig	init.defaultbranch=master
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/manojodela/nextdemo.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\ManojOdela\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\ManojOdela\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
