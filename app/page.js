@@ -23,7 +23,7 @@ export default function Home() {
       />
     </div>
   ); 
-}
+} 
 
 
 // // app/page.js  (server component)
